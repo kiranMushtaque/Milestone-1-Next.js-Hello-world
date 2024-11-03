@@ -1,8 +1,9 @@
- Project Description
-This project is a simple Next.js application that displays a personalized "Hello World" message with basic styling.
+. Explore and Document the Folder Structure
+After creating the project, familiarize yourself with the folder structure:
 
- Folder Structure
-- app/: Contains the main application files.
-  - page.tsx: The main page of the application.
-  - globals.css: Global styles for the application.
-  - tailwind.config.ts: Configuration file for Tailwind CSS.
+app: Contains pages for routing; each file here corresponds to a route in your app.
+components: A place to organize reusable components (you can create this folder if it doesn't exist).
+public: Holds static assets like images or icons.
+styles: Contains CSS files for styling.
+package.json: Lists dependencies and scripts.
+tsconfig.json (if using TypeScript): Configures TypeScript settings.
