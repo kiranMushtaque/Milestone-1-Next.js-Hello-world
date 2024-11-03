@@ -1,4 +1,6 @@
+
 Folder Structure
+
  Explore and Document the Folder Structure
 After creating the project, familiarize yourself with the folder structure:
 
