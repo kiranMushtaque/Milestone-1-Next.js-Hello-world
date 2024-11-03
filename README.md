@@ -1,4 +1,5 @@
-. Explore and Document the Folder Structure
+Folder Structure
+ Explore and Document the Folder Structure
 After creating the project, familiarize yourself with the folder structure:
 
 app: Contains pages for routing; each file here corresponds to a route in your app.
